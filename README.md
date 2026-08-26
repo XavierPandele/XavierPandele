@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cronosai-webhook.vercel.app">
-    <img src="https://img.shields.io/badge/Building-CronosAI-B9060A?style=flat-square&labelColor=0D0D0D" alt="Building CronosAI">
-  </a>
+  <img src="https://img.shields.io/badge/Building-CronosAI-B9060A?style=flat-square&labelColor=0D0D0D" alt="Building CronosAI">
   <img src="https://img.shields.io/badge/Girona-Spain-B9060A?style=flat-square&labelColor=0D0D0D" alt="Girona, Spain">
   <img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Voice%20%C2%B7%20Mobile-B9060A?style=flat-square&labelColor=0D0D0D" alt="Focus">
 </p>
@@ -27,7 +25,7 @@ I design and ship end-to-end products where AI does something genuinely useful �
 
 ### Featured work
 
-**[CronosAI](https://github.com/XavierPandele/cronosai-webhook)** — AI voice agent for restaurants  
+**CronosAI** — AI voice agent for restaurants  
 A phone number that answers itself. Real-time voice conversations powered by **Gemini 2.0 Flash** over **Twilio**, understanding natural speech in 6 languages, confirming table bookings and delivery orders straight into a MySQL backend. Built with a triple-fallback strategy and circuit breakers so a call never dies on the customer, plus structured logging for post-call diagnostics.
 
 `Node.js` · `Google Gemini` · `Twilio Voice` · `Google Cloud TTS` · `MySQL` · `Upstash Redis` · `Vercel`
@@ -46,6 +44,8 @@ Shared trip room where every car appears on the map in real time: distances, sep
 Track what you watch, rate it, keep a diary and share it. Like Letterboxd, but built for series from the start.
 
 `React Native` · `Expo` · `TMDb API`
+
+<sub>These are active commercial and pre-launch projects, so the repositories are private. Happy to walk through the architecture or share code on request.</sub>
 
 ---
 
