@@ -77,14 +77,6 @@ Track what you watch, rate it, keep a diary and share it. Like Letterboxd, but b
 
 ---
 
-### Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XavierPandele&show_icons=true&hide_border=true&bg_color=00000000&title_color=B9060A&icon_color=B9060A&text_color=808080&hide=issues&count_private=true" alt="GitHub stats" height="150">
-</p>
-
----
-
 ### Get in touch
 
 <p>
